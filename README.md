@@ -18,12 +18,15 @@ This project is a **ReactJS application** built with **Material Design Framework
 ## 🛠️ Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-```ssh
-git@github.com:zohaibIslam03/React-job-application-task.git
+```sh
+# Clone via SSH
+git clone git@github.com:zohaibIslam03/React-job-application-task.git
 
-```http
-https://github.com/zohaibIslam03/React-job-application-task.git
-cd repository-name
+# Clone via HTTPS
+git clone https://github.com/zohaibIslam03/React-job-application-task.git
 
-npm i to install all node modules "
+cd React-job-application-task
+
+npm install
+
 npm start 
